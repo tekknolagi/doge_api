@@ -1,6 +1,4 @@
 require 'doge_api'
-require 'doge_chain'
-require 'awesome_print'
 
 $my_api_key = 'API_KEY'
 $my_address = 'DBv97MSG4gNjcGoHCMX1nfanLjzBgVERi9'
