@@ -12,5 +12,8 @@ gem 'doge_api'
 </pre>
 to your Gemfile.
 
+## Usage
+Check `test.rb` for some examples.
+
 ## License
 This teeny-tiny project is under the MIT license.
