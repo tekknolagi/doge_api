@@ -17,3 +17,6 @@ Check `test.rb` for some examples.
 
 ## License
 This teeny-tiny project is under the MIT license.
+
+## Badges and things
+[![Gem Version](https://badge.fury.io/rb/doge_api.png)](http://badge.fury.io/rb/doge_api)
