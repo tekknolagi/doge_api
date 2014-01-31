@@ -20,3 +20,4 @@ This teeny-tiny project is under the MIT license.
 
 ## Badges and things
 [![Gem Version](https://badge.fury.io/rb/doge_api.png)](http://badge.fury.io/rb/doge_api)
+[![Google Analytics](https://ga-beacon.appspot.com/UA-47678422-2/tekknolagi/doge_api)](https://ga-beacon.appspot.com/)
