@@ -8,7 +8,7 @@ module DogeApi
     def initialize(api_key, version=1)
       @api_key = api_key
       @api_version = version
-      @base_uri = URI.parse(_get_dogeapi_endpoint())
+      @base_uri = URI.parse(_get_dogeapi_endpoint)
     end
 
     def build_uri(m, args)

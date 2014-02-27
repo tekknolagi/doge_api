@@ -4,7 +4,7 @@ $my_api_key = 'API_KEY'
 $my_address = 'DBv97MSG4gNjcGoHCMX1nfanLjzBgVERi9'
 $my_api_address = 'DPf8M6McXUZW5zDxwAKXAfid4A78P8o21M'
 
-doge_api = DogeApi::DogeApi.new($my_api_key)
+doge_api = DogeApi::DogeApi.new($my_api_key, version=2)
 doge_api.get_balance
 doge_api.withdraw :amount => 5, :payment_address => $my_address
 doge_api.get_new_address :address_label => 'my pretty address'
